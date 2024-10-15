@@ -1,2 +1,2 @@
-# EDA-Projects
+# Iris_dataset
 EDA perform on an iris dataset by using jupyter notebook and streamlit...
